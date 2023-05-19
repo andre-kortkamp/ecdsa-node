@@ -21,6 +21,13 @@ label {
   gap: 12px;
   margin: 0 auto;
 }
+.txn {
+  display: flex;
+  // max-width: 140px;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin: 0 auto;
+}
 
 .container {
   flex-grow: 1;
